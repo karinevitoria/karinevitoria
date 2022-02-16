@@ -1,18 +1,30 @@
-<h2> Oi gente, eu sou <strong>Karine Vitória</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center"> Olá, eu sou <strong>Karine Vitória</strong>. Bem-vindo ao meu perfil.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<h3> :man_office_worker: 💻 Quem sou eu: </h3>
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=www.linkedin.com/in/karinevfalves/)](www.linkedin.com/in/karinevfalves/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:karinevfalves@gmail.com)](mailto:karinevfalves@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://portfolio-karine.herokuapp.com/)](https://portfolio-karine.herokuapp.com/)
 
-- :books: &nbsp; <strong>Me interesso pela área de desenvolvimento web.</strong>
-- 🎓 &nbsp; <strong>Faço Sistemas de Informação na UFRPE.</strong>
-- :computer: &nbsp; <strong>Atualmente, estou estudando para ser uma dev full-stack. </strong>
+</div>
 
-<h3>:atom: Competências Técnicas: </h3>
+<hr>
 
-- 💻 &nbsp; <strong>Javascript, java</strong>
-- 🌐 &nbsp; <strong>Desenvolvimento Web</strong>
-- 🛢 &nbsp; <strong>MongoDB e SQL Server</strong>
-- 🔧 &nbsp; <strong>Visual Studio Code</strong>
+<h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
 
+<p align="center">
+  <strong>Sistemas de Informação | 1º Período</strong><br>
+  <strong>MongoDB, SQL Server</strong>📚<br>
+  <strong>Git/Github, Javascript, HTML, Css</strong>🚀<br>
+</p>
+
+<div align="center">
+
+![Your github status](https://github-readme-stats.vercel.app/api?username=karinevitoria&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinevitoria&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+  </div>
 
 <div align="center">
   <a href="#" alt="Gmail">
@@ -21,4 +33,3 @@
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/karinevfalves/" /></a>
  
-
