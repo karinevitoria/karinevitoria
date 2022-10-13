@@ -11,7 +11,7 @@
 
 <hr>
 
-<h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
+<h3 align="center"><strong> Front-End </strong> Developer 💻</h3>
 
 <p align="center">
   <strong>Sistemas de Informação | 1º Período</strong><br>
