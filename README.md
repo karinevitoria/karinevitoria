@@ -11,12 +11,12 @@
 
 <hr>
 
-<h3 align="center"><strong> Front-End </strong> Developer 💻</h3>
+<h3 align="center"><strong> Back-end </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>Sistemas de Informação | 3º Período</strong><br>
+  <strong>Sistemas de Informação | 4º Período</strong><br>
   <strong>MongoDB, SQL Server</strong>📚<br>
-  <strong>Git/Github, Javascript, HTML, CSS, Python</strong>🚀<br>
+  <strong>Java, Spring Boot, Python, Git/Github, Javascript, HTML, CSS</strong>🚀<br>
 </p>
 
 <div align="center">
